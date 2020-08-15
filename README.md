@@ -1,2 +1,2 @@
-# kronkbetiPack
-Paquete de recursos del servidor kronk beti.
+# kronk beti pack
+### Paquete de recursos del servidor kronk beti.
