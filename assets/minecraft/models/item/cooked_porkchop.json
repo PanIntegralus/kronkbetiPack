@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cooked_porkchop"
+    },
+
+    "overrides": [
+        { "predicate": { "custom_model_data": 10001}, "model": "item/food/sushi/cod_sushi"},
+        { "predicate": { "custom_model_data": 10002}, "model": "item/food/sushi/salmon_sushi"},
+        { "predicate": { "custom_model_data": 10003}, "model": "item/food/sushi/tropical_sushi"},
+        { "predicate": { "custom_model_data": 10004}, "model": "item/food/fastfood/hamburger"}
+    ]
+}

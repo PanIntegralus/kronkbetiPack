@@ -1,0 +1,15 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/apple"
+    },
+
+    "overrides": [
+        { "predicate": { "custom_model_data": 10001}, "model": "item/food/fruits/strawberry"},
+        { "predicate": { "custom_model_data": 10002}, "model": "item/food/fruits/orange"},
+        { "predicate": { "custom_model_data": 10003}, "model": "item/food/fruits/banana"},
+        { "predicate": { "custom_model_data": 10004}, "model": "item/food/fruits/pear"},
+        { "predicate": { "custom_model_data": 10005}, "model": "item/food/fruits/lemon"},
+        { "predicate": { "custom_model_data": 10006}, "model": "item/food/fruits/cherries"}
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/beetroot_soup"
+    },
+
+    "overrides": [
+        { "predicate": { "custom_model_data": 10001}, "model": "item/food/bowls/rice_soup"}
+    ]
+}
