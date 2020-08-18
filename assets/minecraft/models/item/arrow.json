@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/arrow"
+    },
+
+    "overrides": [
+        { "predicate": { "custom_model_data": 10001}, "model": "item/menu/drink"},
+        { "predicate": { "custom_model_data": 10002}, "model": "item/menu/food"}
+    ]
+}
